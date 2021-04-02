@@ -1,22 +1,23 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jhye0n&label=Profile%20views&color=0e75b6&style=flat" alt="jhye0n" /> </p>
+<div align=center>
+  
+[![Hits](https://komarev.com/ghpvc/?username=jhye0n&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com)
 
-<h3 align="center">Hi 👋, I'm jhyeon</h1>
-<h4 align="center">Web Development & Security Research</h4>
+</div>
 
-<hr>
+### DevOps, Security Engineer
+- Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
+- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
 
-<h3 align="left"> My Social Media </h3>
-<a href="https://fb.com/jhyeonstory" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jhyeonstory" height="30" width="40" /></a>
-<a href="https://instagram.com/jhye3n_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jhye3n_" height="30" width="40" /></a>
+### Interest
+- Software Development(Web - Fronted, Backend / API Services)
+- Cloud Platfrom Infrastructure (AWS, GCP)
+- Security Research
 
-<hr>
+<div align=center>
 
-<h3 align="left"> My PortFoilo & Blog </h3>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/jhye0n/)](https://github.com/jhye0n/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jhyeonstory)](https://www.facebook.com/jhyeonstory) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jhye3n_/)](https://www.instagram.com/jhye3n_/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stjhyeon@gmail.com)](mailto:stjhyeon@gmail.com)
+</div>
 
-- PortFoilo : [https://mypf.jhyeon.dev](https://pf.jhyeon.dev)
-
-- Public Archive : [https://public.jhyeon.dev](https://public.jhyeon.dev)
-
-- Blog : [https://blog.jhyeon.dev](https://blog.jhyeon.dev)
-
-<hr>
