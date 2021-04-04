@@ -8,7 +8,7 @@
 - [Profile & Portfolio Link](https://mypf.jhyeon.dev)
 
 ### Interest
-- Software Development(Web - Fronted, Backend / API Services)
+- Software Development & Operations(Web - Fronted, Backend / API Services)
 - Cloud Platfrom Infrastructure (AWS, GCP)
 - Security Research
 
