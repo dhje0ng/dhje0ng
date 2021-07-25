@@ -4,8 +4,8 @@
 
 </div>
 
-### DevOps, Security Engineer
-- [Profile & Portfolio Link](https://mypf.jhyeon.dev)
+### $ whoami
+- [My Portfolio](https://mypf.jhyeon.dev)
 
 ### Interest
 - Software Development & Operations(Web - Fronted, Backend / API Services)
