@@ -11,4 +11,4 @@
 </p>
 		
 <!-- rates -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhye0n&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhje0ng&show_icons=true&theme=dark)
