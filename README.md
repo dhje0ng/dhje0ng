@@ -1,6 +1,6 @@
 ### Hi, there 👏
 
-- DongHyeon Jeong
+- DongHyeon Jeong (DH.J)
 - Independent Security Researcher
 
 <!-- shields logo -->
