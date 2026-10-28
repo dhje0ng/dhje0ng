@@ -21,5 +21,3 @@
 - CVE-2023-39075 / Denial of service / @Renault, ZOE
 - CVE-2023-23082 / Heap overflow / @KODI, Home Threater
 - CVE-2022-XXXXX / Denial of service / @BMW [REDACTED]
-- KVE-2019-1235, 2019-1236, 2019-1238 / Reflected XSS / @SIR (Gnuboard5)
-- KVE-2020-0013 / Reflected XSS / @SIR (Gnuboard5)
