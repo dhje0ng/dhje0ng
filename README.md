@@ -5,7 +5,6 @@
 - https://dhjeong.kr
 
 ### Work Experience
-- Security Researcher @Meritz Fincia
 - Security Researcher [REDACTED] Directly subordinate unit to the Ministry of National Defense **2025.01 ~ Present**
 - Security Researcher @Autocrypt **2021.06 ~ 2024.12**
 
