@@ -5,6 +5,7 @@
 - https://dhjeong.kr
 
 ### Work Experience
+- Security Researcher @Meritz Fincia
 - Security Researcher [REDACTED] Directly subordinate unit to the Ministry of National Defense **2025.01 ~ Present**
 - Security Researcher @Autocrypt **2021.06 ~ 2024.12**
 
@@ -20,4 +21,4 @@
 - CVE-2023-39076 / Denial of service / @GM, Chevrolet Equinox
 - CVE-2023-39075 / Denial of service / @Renault, ZOE
 - CVE-2023-23082 / Heap overflow / @KODI, Home Threater
-- CVE-2022-XXXXX / Denial of service / @BMW [REDACTED]
+- NDA-2022 / Denial of service / @BMW Automotive [REDACTED]
